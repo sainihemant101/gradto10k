@@ -1,0 +1,962 @@
+[
+ {
+  "id": "2026-06-15_rest",
+  "date": "2026-06-15",
+  "day": "Mon",
+  "week": 1,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-06-16_run",
+  "date": "2026-06-16",
+  "day": "Tue",
+  "week": 1,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 4.3,
+  "instructions": "6x400 m @ 6:00-6:15/km, 90 s walk/jog rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-06-17_run",
+  "date": "2026-06-17",
+  "day": "Wed",
+  "week": 1,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-06-17_lift",
+  "date": "2026-06-17",
+  "day": "Wed",
+  "week": 1,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-06-18_run",
+  "date": "2026-06-18",
+  "day": "Thu",
+  "week": 1,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-06-19_run",
+  "date": "2026-06-19",
+  "day": "Fri",
+  "week": 1,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 4.5,
+  "instructions": "2 km warm-up, 10 min tempo @ 6:30-6:45/km, 1 km cool-down"
+ },
+ {
+  "id": "2026-06-20_lift",
+  "date": "2026-06-20",
+  "day": "Sat",
+  "week": 1,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-06-21_run",
+  "date": "2026-06-21",
+  "day": "Sun",
+  "week": 1,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 6.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-06-22_rest",
+  "date": "2026-06-22",
+  "day": "Mon",
+  "week": 2,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-06-23_run",
+  "date": "2026-06-23",
+  "day": "Tue",
+  "week": 2,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 4.3,
+  "instructions": "6x400 m @ 6:00-6:15/km, 90 s rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-06-24_run",
+  "date": "2026-06-24",
+  "day": "Wed",
+  "week": 2,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-06-24_lift",
+  "date": "2026-06-24",
+  "day": "Wed",
+  "week": 2,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-06-25_run",
+  "date": "2026-06-25",
+  "day": "Thu",
+  "week": 2,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-06-26_run",
+  "date": "2026-06-26",
+  "day": "Fri",
+  "week": 2,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 4.8,
+  "instructions": "2 km warm-up, 12 min tempo @ 6:30-6:45/km, 1 km cool-down"
+ },
+ {
+  "id": "2026-06-27_lift",
+  "date": "2026-06-27",
+  "day": "Sat",
+  "week": 2,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-06-28_run",
+  "date": "2026-06-28",
+  "day": "Sun",
+  "week": 2,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 7.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-06-29_rest",
+  "date": "2026-06-29",
+  "day": "Mon",
+  "week": 3,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-06-30_run",
+  "date": "2026-06-30",
+  "day": "Tue",
+  "week": 3,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 5.2,
+  "instructions": "8x400 m @ 6:00-6:15/km, 90 s rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-07-01_run",
+  "date": "2026-07-01",
+  "day": "Wed",
+  "week": 3,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-07-01_lift",
+  "date": "2026-07-01",
+  "day": "Wed",
+  "week": 3,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-07-02_run",
+  "date": "2026-07-02",
+  "day": "Thu",
+  "week": 3,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-07-03_run",
+  "date": "2026-07-03",
+  "day": "Fri",
+  "week": 3,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 5.3,
+  "instructions": "2 km warm-up, 15 min tempo @ 6:30-6:45/km, 1 km cool-down"
+ },
+ {
+  "id": "2026-07-04_lift",
+  "date": "2026-07-04",
+  "day": "Sat",
+  "week": 3,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-07-05_run",
+  "date": "2026-07-05",
+  "day": "Sun",
+  "week": 3,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 8.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-07-06_rest",
+  "date": "2026-07-06",
+  "day": "Mon",
+  "week": 4,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-07-07_run",
+  "date": "2026-07-07",
+  "day": "Tue",
+  "week": 4,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 4.0,
+  "instructions": "DOWN WEEK: 5x400 m @ 6:00-6:15/km, 90 s rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-07-08_run",
+  "date": "2026-07-08",
+  "day": "Wed",
+  "week": 4,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-07-08_lift",
+  "date": "2026-07-08",
+  "day": "Wed",
+  "week": 4,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-07-09_run",
+  "date": "2026-07-09",
+  "day": "Thu",
+  "week": 4,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-07-10_run",
+  "date": "2026-07-10",
+  "day": "Fri",
+  "week": 4,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 4.5,
+  "instructions": "2 km warm-up, 10 min tempo @ 6:30-6:45/km, 1 km cool-down"
+ },
+ {
+  "id": "2026-07-11_lift",
+  "date": "2026-07-11",
+  "day": "Sat",
+  "week": 4,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-07-12_run",
+  "date": "2026-07-12",
+  "day": "Sun",
+  "week": 4,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 6.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-07-13_rest",
+  "date": "2026-07-13",
+  "day": "Mon",
+  "week": 5,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-07-14_run",
+  "date": "2026-07-14",
+  "day": "Tue",
+  "week": 5,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 6.0,
+  "instructions": "5x800 m @ 6:00-6:15/km, 2 min rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-07-15_run",
+  "date": "2026-07-15",
+  "day": "Wed",
+  "week": 5,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 5.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-07-15_lift",
+  "date": "2026-07-15",
+  "day": "Wed",
+  "week": 5,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-07-16_run",
+  "date": "2026-07-16",
+  "day": "Thu",
+  "week": 5,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-07-17_run",
+  "date": "2026-07-17",
+  "day": "Fri",
+  "week": 5,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 5.7,
+  "instructions": "2 km warm-up, 18 min tempo @ 6:30-6:45/km, 1 km cool-down"
+ },
+ {
+  "id": "2026-07-18_lift",
+  "date": "2026-07-18",
+  "day": "Sat",
+  "week": 5,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-07-19_run",
+  "date": "2026-07-19",
+  "day": "Sun",
+  "week": 5,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 9.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-07-20_rest",
+  "date": "2026-07-20",
+  "day": "Mon",
+  "week": 6,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-07-21_run",
+  "date": "2026-07-21",
+  "day": "Tue",
+  "week": 6,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 6.0,
+  "instructions": "4x1000 m @ 6:00-6:15/km, 2:30 rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-07-22_run",
+  "date": "2026-07-22",
+  "day": "Wed",
+  "week": 6,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 5.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-07-22_lift",
+  "date": "2026-07-22",
+  "day": "Wed",
+  "week": 6,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-07-23_run",
+  "date": "2026-07-23",
+  "day": "Thu",
+  "week": 6,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-07-24_run",
+  "date": "2026-07-24",
+  "day": "Fri",
+  "week": 6,
+  "type": "run",
+  "runType": "Easy + strides",
+  "plannedKm": 4.5,
+  "instructions": "5K TIME TRIAL week: no tempo - 4 km easy + 4x20 s strides; recalibrate paces from TT result"
+ },
+ {
+  "id": "2026-07-25_run",
+  "date": "2026-07-25",
+  "day": "Sat",
+  "week": 6,
+  "type": "run",
+  "runType": "5K time trial",
+  "plannedKm": 5.0,
+  "instructions": "5K TIME TRIAL - flat route, cool morning, even pacing. Replaces Sat lift; do Lift B on Sunday after the long run or skip this week."
+ },
+ {
+  "id": "2026-07-26_run",
+  "date": "2026-07-26",
+  "day": "Sun",
+  "week": 6,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 8.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-07-27_rest",
+  "date": "2026-07-27",
+  "day": "Mon",
+  "week": 7,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-07-28_run",
+  "date": "2026-07-28",
+  "day": "Tue",
+  "week": 7,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 7.0,
+  "instructions": "5x1000 m @ interval pace, 2:30 rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-07-29_run",
+  "date": "2026-07-29",
+  "day": "Wed",
+  "week": 7,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 5.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-07-29_lift",
+  "date": "2026-07-29",
+  "day": "Wed",
+  "week": 7,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-07-30_run",
+  "date": "2026-07-30",
+  "day": "Thu",
+  "week": 7,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-07-31_run",
+  "date": "2026-07-31",
+  "day": "Fri",
+  "week": 7,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 6.0,
+  "instructions": "2 km warm-up, 20 min tempo, 1 km cool-down"
+ },
+ {
+  "id": "2026-08-01_lift",
+  "date": "2026-08-01",
+  "day": "Sat",
+  "week": 7,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-08-02_run",
+  "date": "2026-08-02",
+  "day": "Sun",
+  "week": 7,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 10.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-08-03_rest",
+  "date": "2026-08-03",
+  "day": "Mon",
+  "week": 8,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-08-04_run",
+  "date": "2026-08-04",
+  "day": "Tue",
+  "week": 8,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 5.2,
+  "instructions": "DOWN WEEK: 4x800 m @ interval pace, 2 min rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-08-05_run",
+  "date": "2026-08-05",
+  "day": "Wed",
+  "week": 8,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-08-05_lift",
+  "date": "2026-08-05",
+  "day": "Wed",
+  "week": 8,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-08-06_run",
+  "date": "2026-08-06",
+  "day": "Thu",
+  "week": 8,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-08-07_run",
+  "date": "2026-08-07",
+  "day": "Fri",
+  "week": 8,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 4.8,
+  "instructions": "2 km warm-up, 12 min tempo, 1 km cool-down"
+ },
+ {
+  "id": "2026-08-08_lift",
+  "date": "2026-08-08",
+  "day": "Sat",
+  "week": 8,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-08-09_run",
+  "date": "2026-08-09",
+  "day": "Sun",
+  "week": 8,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 8.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-08-10_rest",
+  "date": "2026-08-10",
+  "day": "Mon",
+  "week": 9,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-08-11_run",
+  "date": "2026-08-11",
+  "day": "Tue",
+  "week": 9,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 8.0,
+  "instructions": "6x1000 m @ interval pace, 2:30 rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-08-12_run",
+  "date": "2026-08-12",
+  "day": "Wed",
+  "week": 9,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 5.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-08-12_lift",
+  "date": "2026-08-12",
+  "day": "Wed",
+  "week": 9,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-08-13_run",
+  "date": "2026-08-13",
+  "day": "Thu",
+  "week": 9,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-08-14_run",
+  "date": "2026-08-14",
+  "day": "Fri",
+  "week": 9,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 7.0,
+  "instructions": "2 km warm-up, 2x12 min tempo with 3 min jog between, 1 km cool-down"
+ },
+ {
+  "id": "2026-08-15_lift",
+  "date": "2026-08-15",
+  "day": "Sat",
+  "week": 9,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-08-16_run",
+  "date": "2026-08-16",
+  "day": "Sun",
+  "week": 9,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 11.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-08-17_rest",
+  "date": "2026-08-17",
+  "day": "Mon",
+  "week": 10,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-08-18_run",
+  "date": "2026-08-18",
+  "day": "Tue",
+  "week": 10,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 6.8,
+  "instructions": "3x1600 m @ interval pace, 3 min rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-08-19_run",
+  "date": "2026-08-19",
+  "day": "Wed",
+  "week": 10,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 5.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-08-19_lift",
+  "date": "2026-08-19",
+  "day": "Wed",
+  "week": 10,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-08-20_run",
+  "date": "2026-08-20",
+  "day": "Thu",
+  "week": 10,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-08-21_run",
+  "date": "2026-08-21",
+  "day": "Fri",
+  "week": 10,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 7.0,
+  "instructions": "2 km warm-up, 25 min tempo, 1 km cool-down"
+ },
+ {
+  "id": "2026-08-22_lift",
+  "date": "2026-08-22",
+  "day": "Sat",
+  "week": 10,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-08-23_run",
+  "date": "2026-08-23",
+  "day": "Sun",
+  "week": 10,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 12.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-08-24_rest",
+  "date": "2026-08-24",
+  "day": "Mon",
+  "week": 11,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-08-25_run",
+  "date": "2026-08-25",
+  "day": "Tue",
+  "week": 11,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 5.2,
+  "instructions": "TAPER: 4x800 m @ interval pace, 2 min rest; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-08-26_run",
+  "date": "2026-08-26",
+  "day": "Wed",
+  "week": 11,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 4.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-08-26_lift",
+  "date": "2026-08-26",
+  "day": "Wed",
+  "week": 11,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - lower body: goblet/back squat 4x6-8, Bulgarian split squat 3x8/leg, walking lunges 3x12/leg, standing calf raise 3x15 slow, plank 3x45 s. Keep 2 reps in reserve. (evening, after the run)"
+ },
+ {
+  "id": "2026-08-27_run",
+  "date": "2026-08-27",
+  "day": "Thu",
+  "week": 11,
+  "type": "run",
+  "runType": "Easy",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down."
+ },
+ {
+  "id": "2026-08-28_run",
+  "date": "2026-08-28",
+  "day": "Fri",
+  "week": 11,
+  "type": "run",
+  "runType": "Tempo",
+  "plannedKm": 5.0,
+  "instructions": "2 km warm-up, 15 min tempo, 1 km cool-down"
+ },
+ {
+  "id": "2026-08-29_lift",
+  "date": "2026-08-29",
+  "day": "Sat",
+  "week": 11,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - posterior chain + core: RDL 4x8, hip thrust 3x10, single-leg RDL 3x8/leg, side plank 3x30 s/side, dead bug 3x10, seated calf raise 3x15. Keep 2 reps in reserve."
+ },
+ {
+  "id": "2026-08-30_run",
+  "date": "2026-08-30",
+  "day": "Sun",
+  "week": 11,
+  "type": "run",
+  "runType": "Long",
+  "plannedKm": 8.0,
+  "instructions": "Long run 7:50-8:20/km. Time on feet, not pace. Carry water; start before 7:30 am."
+ },
+ {
+  "id": "2026-08-31_rest",
+  "date": "2026-08-31",
+  "day": "Mon",
+  "week": 12,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest day. Sleep, hydrate, stretch lightly."
+ },
+ {
+  "id": "2026-09-01_run",
+  "date": "2026-09-01",
+  "day": "Tue",
+  "week": 12,
+  "type": "run",
+  "runType": "Intervals",
+  "plannedKm": 3.8,
+  "instructions": "TAPER: 3x600 m @ interval pace, full recovery; 1 km warm-up + 1 km cool-down"
+ },
+ {
+  "id": "2026-09-02_run",
+  "date": "2026-09-02",
+  "day": "Wed",
+  "week": 12,
+  "type": "run",
+  "runType": "Easy + cadence",
+  "plannedKm": 3.0,
+  "instructions": "Easy conversational pace 7:45-8:15/km. If you cannot speak full sentences, slow down. Include 3x3 min at 158-162 spm cadence (metronome/playlist)."
+ },
+ {
+  "id": "2026-09-02_lift",
+  "date": "2026-09-02",
+  "day": "Wed",
+  "week": 12,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift A - LIGHT race-week version: goblet squat 3x8 light, split squat 2x8/leg, plank 2x45 s. No heavy loads this week."
+ },
+ {
+  "id": "2026-09-03_lift",
+  "date": "2026-09-03",
+  "day": "Thu",
+  "week": 12,
+  "type": "lift",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Lift B - LIGHT race-week version: RDL 3x8 light, hip thrust 2x10, side plank 2x30 s/side, dead bug 2x10. No lifting after Thursday."
+ },
+ {
+  "id": "2026-09-04_rest",
+  "date": "2026-09-04",
+  "day": "Fri",
+  "week": 12,
+  "type": "rest",
+  "runType": null,
+  "plannedKm": null,
+  "instructions": "Full rest or 20-min walk (race week)."
+ },
+ {
+  "id": "2026-09-05_run",
+  "date": "2026-09-05",
+  "day": "Sat",
+  "week": 12,
+  "type": "run",
+  "runType": "Shakeout",
+  "plannedKm": 2.5,
+  "instructions": "Pre-race shakeout: 2 km easy + 3x20 s strides (day before the 10K time trial)."
+ },
+ {
+  "id": "2026-09-06_run",
+  "date": "2026-09-06",
+  "day": "Sun",
+  "week": 12,
+  "type": "run",
+  "runType": "10K TIME TRIAL",
+  "plannedKm": 10.0,
+  "instructions": "GOAL TEST - 10K time trial. Start 6:05-6:10/km, hold to 7 km, push final 3 km. Even or negative splits. Target 58-62 min."
+ }
+]

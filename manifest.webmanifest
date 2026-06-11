@@ -1,0 +1,14 @@
+{
+  "name": "10K Build — 12-Week Training Tracker",
+  "short_name": "10K Build",
+  "description": "Daily task and performance tracker for a 12-week 10K training block.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#211D19",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>10K Build — 12-Week Training Tracker</title>
+<meta name="description" content="Daily task + performance tracker for a 12-week 10K training block.">
+<meta name="theme-color" content="#211D19">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <span class="wordmark">10K&nbsp;BUILD</span>
+    <span class="topbar-meta">
+      <span id="weekBadge" class="week-badge">WK —</span>
+      <span id="syncDot" class="sync-dot" title="Sync status"></span>
+    </span>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ TODAY VIEW ============ -->
+  <section id="view-today" class="view active" aria-label="Today">
+
+    <div class="date-stepper">
+      <button id="prevDay" class="step-btn" aria-label="Previous day">‹</button>
+      <div class="date-stepper-label">
+        <span id="dateLabel" class="date-label">—</span>
+        <button id="jumpToday" class="jump-today hidden">back to today</button>
+      </div>
+      <button id="nextDay" class="step-btn" aria-label="Next day">›</button>
+    </div>
+
+    <div id="taskCards"><!-- bib cards injected --></div>
+
+  </section>
+
+  <!-- ============ ANALYTICS VIEW ============ -->
+  <section id="view-analytics" class="view" aria-label="Analytics">
+
+    <h2 class="section-title">RUN ANALYTICS</h2>
+
+    <div class="lane-progress" aria-label="12 week progress">
+      <div class="lane-progress-head">
+        <span class="lane-caption">12-WEEK LANE</span>
+        <span id="laneSummary" class="lane-caption mono">—</span>
+      </div>
+      <div id="laneTrack" class="lane-track"></div>
+    </div>
+
+    <div class="stat-grid">
+      <div class="stat-card stat-hero">
+        <span class="stat-label">RUNS COMPLETED</span>
+        <span class="stat-value mono"><span id="statPct">—</span><small>%</small></span>
+        <span id="statPctDetail" class="stat-sub">of all planned runs</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">TOTAL DISTANCE</span>
+        <span class="stat-value mono"><span id="statKm">—</span><small>km</small></span>
+        <span id="statKmDetail" class="stat-sub">logged so far</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">RUNS DONE</span>
+        <span class="stat-value mono"><span id="statRuns">—</span></span>
+        <span id="statRunsDetail" class="stat-sub">of — planned</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">LEFT TO GO</span>
+        <span class="stat-value mono"><span id="statLeft">—</span><small>%</small></span>
+        <span id="statLeftDetail" class="stat-sub">— runs remaining</span>
+      </div>
+    </div>
+
+    <div class="streak-card">
+      <div class="streak-head">
+        <span class="stat-label">CONSISTENCY</span>
+        <label class="streak-window-label">last
+          <select id="streakWindow" class="streak-window">
+            <option value="5">5</option>
+            <option value="10" selected>10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+          </select> runs
+        </label>
+      </div>
+      <div id="streakStrip" class="streak-strip" aria-label="Recent run results"></div>
+      <div class="streak-figures">
+        <span class="mono"><strong id="streakHit">—</strong> completed in window</span>
+        <span class="mono">current streak <strong id="streakNow">—</strong></span>
+      </div>
+    </div>
+
+    <div id="weeklyKm" class="weekly-km"></div>
+
+  </section>
+</main>
+
+<!-- ============ FLASHCARD LOGGER ============ -->
+<div id="flashOverlay" class="flash-overlay hidden" role="dialog" aria-modal="true" aria-label="Log performance">
+  <div class="flash-card">
+    <div class="flash-progress"><div id="flashBar" class="flash-bar"></div></div>
+    <button id="flashClose" class="flash-close" aria-label="Close">×</button>
+    <div id="flashBody" class="flash-body"></div>
+    <div class="flash-nav">
+      <button id="flashBack" class="btn btn-ghost">Back</button>
+      <button id="flashNext" class="btn btn-primary">Next</button>
+    </div>
+  </div>
+</div>
+
+<nav class="tabbar" aria-label="Main">
+  <button class="tab active" data-view="today">
+    <span class="tab-num mono">01</span><span>Today</span>
+  </button>
+  <button class="tab" data-view="analytics">
+    <span class="tab-num mono">02</span><span>Analytics</span>
+  </button>
+</nav>
+
+<div id="toast" class="toast hidden"></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
